@@ -2,7 +2,7 @@
 layout: page
 title: About
 subtitle: Meet our team.
-permalink: about
+permalink: about.html
 ---
 **We are** a group of Southern Methodist University (SMU) data science student volunteers. Our goal is to use data to fight the Covid-19 pandemic by connecting people, organizations, and resources. 
 
