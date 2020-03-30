@@ -1,5 +1,5 @@
 ---
 layout: page
-title: QuarentineDataScience
-subtitle: Volunteers, trying to help stop Covid-19 deaths.
+title: QuarantineDataScience
+subtitle: Data Science Volunteers using data to fight the Covid-19 pandemic by connecting people, organizations, and resources.
 ---
