@@ -4,9 +4,7 @@ description: >-
   This is the group site for the volunteers behind distillersfightingcovid, covidmodeling.com, and other products.
   A group of nerds from SMU working remotely from all of our homes. Staying inside, trying to help make a difference.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "quarantinedatascience.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: bulma-clean-theme
