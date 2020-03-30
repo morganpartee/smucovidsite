@@ -18,14 +18,14 @@ Andy Heroy is a dedicated professional with over ten years research experience, 
 
 **Lei Jiang**
 Lei is an aspiring data scientist with years of experience in biomedical research. She is passionate in applying analytical tools to solve important and interesting biological problems. Her main area of interest is biomedical NLP.
-[Linkedin] (https://www.linkedin.com/in/lei-jiang-b4426025/)
+[Linkedin](https://www.linkedin.com/in/lei-jiang-b4426025/)
 
 **David Josephs**
-[Linkedin] (http://linkedin.com/in/data-science-david)
-[Github] (https://github.com/josephsdavid)
+[Linkedin](http://linkedin.com/in/data-science-david)
+[Github](https://github.com/josephsdavid)
 
 **Anand Rajan**
-[Linkedin] (https://www.linkedin.com/in/anand-r-60b457)
+[Linkedin](https://www.linkedin.com/in/anand-r-60b457)
 
 **Michael Wolfe**
 
@@ -38,7 +38,7 @@ Lei is an aspiring data scientist with years of experience in biomedical researc
 
 **Nicole Wittlin**
 Results-oriented and process-driven fundraising operations professional; accomplished arts administrator and frontline fundraiser; experienced manager and department head; data nerd pursuing a Master of Science in Data Science from Southern Methodist University.
-[Linkedin] (https://www.linkedin.com/in/newittlin/)
+[Linkedin](https://www.linkedin.com/in/newittlin/)
 
 ### Alumni ###
 **Ryan Abella**
@@ -53,7 +53,7 @@ Lecturer of Information Systems and Quantitative Methods at Troy University. Mac
 [Github](https://github.com/davestroud)
 
 
-### Other Volunteer Experts ###
+## Other Volunteer Experts ##
 **Jodi Beznoska**, marketing and PR
 
 **Morgan Brown**, Troy University
@@ -65,5 +65,5 @@ My name is Morgan Brown, and I am from Wetumpka, Alabama. I am currently a junio
 **Dr. Fabio Savorgnan**, Texas Children's Hospital
 
 ​
-### Advisor ###
+## Advisor ##
 **Dr. John Santerre**, Adjunct Professor
