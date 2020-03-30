@@ -1,6 +1,6 @@
 ---
 layout: page
-title: QuarentineDataScience
+title: quarantineDataScience
 subtitle: Our work.
 permalink: products.html
 ---
