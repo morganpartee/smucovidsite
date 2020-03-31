@@ -33,6 +33,9 @@ David is a data scientist with an extensive background in mathematical and stoch
 **Anand Rajan**
 [Linkedin](https://www.linkedin.com/in/anand-r-60b457)
 
+Anand Rajan is a Data Engineer in Health care organization and carries abundant experience in the area of Database Management and Business Analytics skills. He possesses excellent enterprise solution architecture skill with attention to details. He is passionate in Healthcare solutions  with a keen interest in Machine Learning, Natural Language Processing, Image processing and visualization. 
+
+
 **Michael Wolfe**
 
 
@@ -67,11 +70,9 @@ Noelle Brown is a data scientist and educator based in Denver, Colorado. She gra
 Lecturer of Information Systems and Quantitative Methods at Troy University. Machine Learning Engineer with extensive experience in Cloud Computing, Big Data, Machine Learning and Deep Learning projects.
 
 
-
-
-
 ## Other Volunteer Experts ##
 **Jodi Beznoska**, marketing and PR
+Jodi is a PR consultant with Blue Water Communications. She has more than 15 years experience as a senior leader of marketing, PR, web, and brand teams at arts, creative and non-profit organizations. Favorite projects include producing an NPR Tiny Desk concert, speaking at the first TEDx Bentonville, and telling the stories of overlooked female artists.
 
 **Morgan Brown**, Troy University
 [Linkedin](http://linkedin.com/in/morgan-brown-5b8474197)
