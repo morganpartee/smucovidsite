@@ -2,7 +2,7 @@
 layout: page
 title: About
 subtitle: Meet our team.
-permalink: about.html
+permalink: /about
 ---
 **We are** a group of Southern Methodist University (SMU) data science student volunteers. Our goal is to use data to fight the Covid-19 pandemic by connecting people, organizations, and resources. 
 
@@ -26,6 +26,9 @@ Lei is an aspiring data scientist with years of experience in biomedical researc
 **David Josephs**
 [Linkedin](http://linkedin.com/in/data-science-david)
 [Github](https://github.com/josephsdavid)
+
+David is a data scientist with an extensive background in mathematical and stochastic modeling. He loves unsupervised learning, caffeine, and type hinting, and hopes to continue to learn and work on a diverse range of problems throughout his career.
+
 
 **Anand Rajan**
 [Linkedin](https://www.linkedin.com/in/anand-r-60b457)

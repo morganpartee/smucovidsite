@@ -1,4 +1,4 @@
 - name: About Us
-  link: about.html
+  link: /about
 - name: Our Work
-  link: products.html
+  link: /products
