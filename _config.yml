@@ -4,7 +4,7 @@ description: >-
   This is the group site for the volunteers behind distillersfightingcovid, covidmodeling.com, and other products.
   A group of nerds from SMU working remotely from all of our homes. Staying inside, trying to help make a difference.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "quarantinedatascience.com/index/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "quarantinedatascience.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: bulma-clean-theme
@@ -22,6 +22,7 @@ exclude:
    - gemfiles/
    - Gemfile
    - Gemfile.lock
+   - _jekyll_s3.yml
 #   - node_modules/
 #   - vendor/bundle/
 #   - vendor/cache/
