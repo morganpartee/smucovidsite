@@ -2,7 +2,7 @@
 layout: page
 title: quarantineDataScience
 subtitle: Our work.
-permalink: /products
+permalink: /products/
 ---
 # [Distilleries Fighting Covid](https://www.distilleriesfightingcovid.com/)
 
