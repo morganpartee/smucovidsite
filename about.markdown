@@ -39,6 +39,7 @@ Anand Rajan is a Data Engineer in Health care organization and carries abundant 
 **Michael Wolfe**
 
 
+
 ### Class of August 2020 ###
 **Aditya Garapti**
 
@@ -83,11 +84,13 @@ Jodi is a PR consultant with Blue Water Communications. She has more than 15 yea
 My name is Morgan Brown, and I am from Wetumpka, Alabama. I am currently a junior, and I intend to graduate in May 2021 with a bachelor’s degree in Global Business-Legal Studies. I am thrilled to assist specifically in the research and writing involved with this project.
 
 
-
 **Peggy Heinkel-Wolfe**, science writer
 
 **Dr. Fabio Savorgnan**, Texas Children's Hospital
 
 ​
 ## Advisor ##
-**Dr. John Santerre**, Adjunct Professor
+**Dr. John Santerre**, Adjunct Professor 
+[Linkedin](https://www.linkedin.com/in/john-santerre-91609b6/)
+
+Professor of Machine learning, John has 10 years working in industry solving and leading teams that solve real world problems for clients.  One foot firmly in academia and the other in industry, John strives to bring new cutting edge solutions into the field where they can make immediate effect.
