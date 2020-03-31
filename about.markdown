@@ -42,7 +42,7 @@ Anand Rajan is a Data Engineer in Health care organization and carries abundant 
 ### Class of August 2020 ###
 **Aditya Garapti**
 
-**Solange Garcia**
+**Solange Garcia de Alford**
 [Linkedin](https://www.linkedin.com/in/solange-alford-960ba1128/)
 
 Business analytics lead with a technology background and extensive experience delivering data and process automation solutions. Cross-functional lead with the ability to bridge communication between IT and Business stakeholders, currently pursuing a Master of Science in Data Science from Southern Methodist University.   
