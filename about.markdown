@@ -27,7 +27,7 @@ Lei is an aspiring data scientist with years of experience in biomedical researc
 [Linkedin](http://linkedin.com/in/data-science-david)
 [Github](https://github.com/josephsdavid)
 
-David is a data scientist with an extensive background in mathematical and stochastic modeling. He loves unsupervised learning, caffeine, and type hinting, and hopes to continue to learn and work on a diverse range of problems throughout his career.
+David is a data scientist and open source contributor with an extensive background in mathematical and stochastic modeling. He loves unsupervised learning, caffeine, and type hinting, and hopes to continue to learn and work on a diverse range of problems throughout his career.
 
 
 **Anand Rajan**
@@ -43,6 +43,9 @@ Anand Rajan is a Data Engineer in Health care organization and carries abundant 
 **Aditya Garapti**
 
 **Solange Garcia**
+[Linkedin](https://www.linkedin.com/in/solange-alford-960ba1128/)
+
+Business analytics lead with a technology background and extensive experience delivering data and process automation solutions. Cross-functional lead with the ability to bridge communication between IT and Business stakeholders, currently pursuing a Master of Science in Data Science from Southern Methodist University.   
 
 **John Partee**
 
